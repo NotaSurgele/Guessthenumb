@@ -1,10 +1,10 @@
-#How to use it
+#titre How to use it
 
 `gcc main.c`
 `./a.out`
 
-#You can see the usage by writing:
+#titre You can see the usage by writing:
 
 `./a.out -h`
 
-##Good game :)
+##titre Good game :)
